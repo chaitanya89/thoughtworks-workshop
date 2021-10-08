@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.cricket.MatchTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-10-08T11:15:56" hostname="INML68TULVCG" time="0.129">
+  <properties/>
+  <testcase name="shouldReturnBowlerAsTheWinner()" classname="com.thoughtworks.cricket.MatchTest" time="0.119"/>
+  <testcase name="shouldReturnBatsmanAsTheWinner()" classname="com.thoughtworks.cricket.MatchTest" time="0.002"/>
+  <testcase name="shouldReturnPlayerWhenMatchIsComplete()" classname="com.thoughtworks.cricket.MatchTest" time="0.005"/>
+  <system-out><![CDATA[Batsman score: 4
+Bowler score: 4
+Batsman score: 4
+Bowler score: 2
+Batsman score: 4
+Bowler score: 2
+Batsman score: 4
+Bowler score: 2
+Batsman score: 4
+Bowler score: 2
+Batsman score: 4
+Bowler score: 2
+Batsman score: 4
+Bowler score: 2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

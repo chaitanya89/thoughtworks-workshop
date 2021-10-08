@@ -1,0 +1,4 @@
+com/thoughtworks/cricket/MatchTest.java
+ com.thoughtworks.cricket.MatchTest
+com/thoughtworks/cricket/player/PlayerTest.java
+ com.thoughtworks.cricket.player.PlayerTest
